@@ -1,6 +1,13 @@
 package searchAlgo;
-import java.awt.*;
-import lib.*;
+import java.awt.Color;
+import java.awt.Graphics;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.Timer;
+
 
 
 class binarySearch{
@@ -42,10 +49,5 @@ class binarySearch{
             System.out.printf("The result %d is in the array \n", tar);
         }
         
-        /* tried to visualize
-        DrawingPanel panel = new DrawingPanel(300, 200);
-        Graphics G = panel.getGraphics();
-        G.fillRect(10, 30, 60, 35);
-        */
     }
 }
