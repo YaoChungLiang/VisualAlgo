@@ -1,4 +1,4 @@
-package searchAlgo;
+package practices;
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.event.ActionEvent;
@@ -11,7 +11,6 @@ import javax.swing.Timer;
 
 public class movie extends JPanel implements ActionListener{
     Timer tm  = new Timer(1,this);   /*this stands for the movie*/
-    System.out.println(this);
     int x = 0, velx = 2;
 
     public void paintComponent(Graphics g){
