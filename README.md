@@ -1,7 +1,7 @@
 # JAVA algorithm visualization
 This repo is to show how algorithms works.
 ## Example of result
-[![HI]https://github.com/YaoChungLiang/VisualAlgo/tree/master/img/JavaVis1.png]
+[![HI](https://github.com/YaoChungLiang/VisualAlgo/tree/master/img/JavaVis1.png)]
 ## Installation
 0. `git clone git@github.com:YaoChungLiang/VisualAlgo.git`
 
