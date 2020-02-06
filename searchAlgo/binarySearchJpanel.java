@@ -42,7 +42,7 @@ class binarySearchJpanel{
             tar = 9;
         }
 
-        binarySearch BsObj = new binarySearch();
+        binarySearchJpanel BsObj = new binarySearchJpanel();
         int arr[] = {1,3,5,7,9,11,15,16,17,18,30,45,47,49};
         int n = arr.length ;
 
